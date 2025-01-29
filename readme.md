@@ -1,6 +1,6 @@
 # Teste iDempiere
 
-O teste consiste em instalar, configurar e rodar o idempiere no ambiente de desenvolvimento
+O teste consiste em instalar, configurar, rodar e acessar o idempiere no ambiente de desenvolvimento
 
 documentação oficial: https://wiki.idempiere.org/en/Installing_iDempiere
 
