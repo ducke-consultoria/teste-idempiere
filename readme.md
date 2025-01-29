@@ -4,17 +4,19 @@ O teste consiste em instalar, configurar e rodar o idempiere no ambiente de dese
 
 documentação oficial: https://wiki.idempiere.org/en/Installing_iDempiere
 
-## Recomentações
+# Plugins
 
-- Utilize Ubuntu para o procedimento (ou WSL)
-- PostgreSQL 14 ou 15
-
-# Bonus
-
-Após conseguir acessar o idempiere com sucesso, algumas tarefas podem te dar um destaque adicional
+Após acessar o idempiere com sucesso, necessário desenvolver ao menos um plugin
 
 - EventHandler
 - Callout
 - Process
 
 Você pode econtrar as documentações em: https://wiki.idempiere.org/en/Category:Plug-In_Development
+
+## Recomentações
+
+- Ubuntu
+- PostgreSQL 16
+
+Qualquer sistema pode rodar o idempiere, sinta-se a vontade para utilizar qualquer, porém o mais simples é o ubuntu podendo ser por dentro do WSL
