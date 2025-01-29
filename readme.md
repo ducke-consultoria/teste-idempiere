@@ -19,4 +19,4 @@ Você pode econtrar as documentações em: https://wiki.idempiere.org/en/Categor
 - Ubuntu
 - PostgreSQL 16
 
-Qualquer sistema pode rodar o idempiere, sinta-se a vontade para utilizar qualquer, porém o mais simples é o ubuntu podendo ser por dentro do WSL
+Qualquer sistema pode rodar o idempiere, sinta-se a vontade para utilizar qualquer, porém o mais simples é o ubuntu podendo ser pelo WSL
